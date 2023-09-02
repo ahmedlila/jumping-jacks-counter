@@ -1,14 +1,10 @@
-# jumping-jacks-counter
+# Jumping Jacks Counter
 
-### Overview
-
----
+## Overview
 
 Jumping Jacks Counter is a simple Python program designed to count the number of jumping jacks performed by a person supporting both webcam and saved video inputs. It utilizes computer vision techniques and OpenCV to detect and track human body movements, specifically focusing on the distinct motion pattern of jumping jacks.
 
-### Demo
-
----
+## Demo
 
 <div align="center">
   <img src="output_sample.gif" alt="Example " width="204" height="360">
@@ -31,7 +27,6 @@ Jumping Jacks Counter is a simple Python program designed to count the number of
 ## Project Contributors
 
 The following contributors have worked on this project:
-
 
 <div align="center">
   <table>
